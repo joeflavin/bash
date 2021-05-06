@@ -1,2 +1,2 @@
 # bash
-Repository for my bash scripts
+some bash scripts
