@@ -7,7 +7,7 @@ __Helpful__: use ffprobe to ascertain format of web radio stream in advance, scr
 
 #### Example use cases
 - cron-job: `58 09 * * TUE /usr/local/bin/custom-version-of-radiocap.sh`
-- cron-job:  `58 15 * * FRI /usr/local/bin/run-if-today 3 FRI && /usr/local/bin/another-version-of-radiocap.sh`
+- cron-job:  `58 15 * * FRI /usr/local/bin/run-if-today 3 Fri && /usr/local/bin/another-version-of-radiocap.sh`
 
 #### Another useful script
 Run radiocap.sh as a cron-job in conjunction with [run-if-today](https://github.com/xr09/cron-last-sunday)
